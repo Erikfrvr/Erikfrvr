@@ -15,7 +15,7 @@
 
 ## 👾 Sobre mim
 
-Oi! Sou o **Erik**, Tecnólogo em Análise e Desenvolvimento de Sistemas pelo **Mackenzie** e estudante do **Técnico em Informática no Senac SP**. Nos projetos em equipe geralmente fico com o frontend, a interface e a integração entre as partes. Sou apaixonado por estética de games e pixel art, dá pra perceber pelo avatar 😄
+Oi! Sou o **Erik**, Tecnólogo em Análise e Desenvolvimento de Sistemas pelo **Mackenzie** e estudante do **Técnico em Informática no Senac SP**. Nos projetos em equipe geralmente fico com o frontend, a interface e a integração entre as partes. Sou apaixonado por estética de games e pixel art 😄
 
 <table>
 <tr>
