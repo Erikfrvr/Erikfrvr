@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=720&height=40&lines=Frontend%2C+UI+e+integra%C3%A7%C3%A3o;Tecn%C3%B3logo+em+ADS+pelo+Mackenzie;T%C3%A9cnico+em+Inform%C3%A1tica+no+Senac+SP;Redes+e+ciberseguran%C3%A7a+com+Cisco;Yare+yare+daze...+bora+codar%21" alt="Frontend, UI e integração">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-8B46E0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/erik-mauricio-897624351/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:erikmauricio3@hotmail.com"><img src="https://img.shields.io/badge/Email-8B46E0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/S%C3%A3o_Paulo%2C_SP-1B0F2E?style=for-the-badge&logo=googlemaps&logoColor=C77DFF" alt="São Paulo, SP">
 <img src="https://img.shields.io/badge/Aberto_a_oportunidades-26A641?style=for-the-badge" alt="Aberto a oportunidades">
 
@@ -15,7 +15,7 @@
 
 ## 👾 Sobre mim
 
-Oi! Sou o **Erik**, Tecnólogo em Análise e Desenvolvimento de Sistemas pelo **Mackenzie** e estudante do **Técnico em Informática no Senac SP**. Nos projetos em equipe geralmente fico com o frontend, a interface e a integração entre as partes. Sou apaixonado por estética de games e pixel art 😄
+Oi! Sou o **Erik**, Tecnólogo em Análise e Desenvolvimento de Sistemas pelo **Mackenzie** e estudante do **Técnico em Informática no Senac SP**. Nos projetos em equipe geralmente fico com o frontend, a interface e a integração entre as partes. Sou apaixonado por estética de games e pixel art, dá pra perceber pelo avatar 😄
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ Oi! Sou o **Erik**, Tecnólogo em Análise e Desenvolvimento de Sistemas pelo **
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Erikfrvr&locale=pt_BR&hide_border=true&background=0d0418&stroke=3b1f5e&ring=C77DFF&fire=FFD23F&currStreakNum=F7EFFF&sideNums=F7EFFF&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=9D4EDD" alt="Sequência de contribuições" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erikfrvr&layout=compact&langs_count=6&hide_border=true&bg_color=0d0418&title_color=C77DFF&text_color=F7EFFF&locale=pt-br&cache_seconds=86400&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" height="170">
+<img src="https://raw.githubusercontent.com/Erikfrvr/Erikfrvr/output/langs.svg" alt="Linguagens mais usadas" height="170">
 
 </div>
 
